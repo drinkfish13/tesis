@@ -1,0 +1,11 @@
+{
+  "epochs": 10,
+  "weight_decay": 0,
+  "lr": 5e-5,
+  "max_len":  128,
+  "layer_dropout": 0.2,
+  "pretrained_name": "distilbert-base-uncased",
+  "batch_size": 64,
+  "n_classes": 2,
+  "weight": ""
+}

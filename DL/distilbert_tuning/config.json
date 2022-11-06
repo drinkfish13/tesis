@@ -1,0 +1,14 @@
+{
+  "epochs": 15,
+  "perc_keep_0": 0.5,
+  "weight_decay": 0.0,
+  "bert_lr": 1e-5,
+  "cl_lr": 1e-2,
+  "def_lr": 5e-5,
+  "max_len": 128,
+  "layer_dropout": 0.2,
+  "pretrained_name": "distilbert-base-uncased",
+  "batch_size": 16,
+  "n_classes": 2,
+  "weight": "balanced"
+}
